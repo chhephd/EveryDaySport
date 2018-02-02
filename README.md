@@ -1,6 +1,7 @@
 ## 天天锻炼计划
 
 ### 一、写在最前面
+我在这儿瞎改会怎么样的
 
 EveryDaySport 灵感来自 *[sofish](https://www.github.com/sofish)* 的 [天天写代码计划](https://github.com/sofish/everyday)。
 
